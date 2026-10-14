@@ -1,4 +1,4 @@
-# Shoppingbill.py
+# Shoppingbill.java
 public class ShoppingBill {
 
     public static double calculateElectronicsGST(double a, double b) {
